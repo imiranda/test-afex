@@ -27,3 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## screenshot
+
+![alt text](https://devservices.cl/test-afex/Screenshot_1.png)
